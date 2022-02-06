@@ -1,0 +1,40 @@
+.error-message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 46px;
+    color:red;
+    border-bottom: 2px dashed red;
+
+}
+
+.product-image{
+    height: 400px !important;
+    width: 250px;
+    max-width: 100%;
+}
+
+.product-row{
+    text-align: center;
+}
+
+.add-to-dart-button{
+    background-color: darkgrey !important;
+    width: 100%;
+    letter-spacing: 2px;
+}
+.add-to-dart-button:hover{
+    background-color: rgb(224, 222, 222) !important;
+    color:black !important;
+    border: none;
+}
+.product-col{
+    margin-top: 15px !important;
+    box-shadow: 1px 3px 3px black;
+   margin: 20px;
+   padding: 10px;
+}
+
+.product-col:hover{
+    box-shadow: none;
+}

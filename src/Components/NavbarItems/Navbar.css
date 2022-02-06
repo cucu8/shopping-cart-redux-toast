@@ -1,0 +1,20 @@
+.home-link{
+    color: white;
+    text-decoration: none;
+    font-size: 24;
+    margin-left: 10px;
+}
+
+.home-link:hover{
+    color:blue
+}
+
+.shop-icon{
+    color: white;
+}
+.navbar{
+    height: 50px;
+}
+.navbar-collapse{
+    background-color: rgb(50, 53, 53);
+}

@@ -1,0 +1,32 @@
+.cart-row{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.cart-avatar{
+    width: 100px;
+    height: 100px;
+}
+
+.total{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    color:red;
+    font-size: 40px;
+}
+
+.row-items div{
+  text-align: center;
+}
+.clear-button{
+    background-color: red !important;
+    color:black !important;
+
+}
+.clear-button:hover{
+    background-color: white !important;
+    color:black !important;
+    
+}
